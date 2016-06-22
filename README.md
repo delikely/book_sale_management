@@ -1,2 +1,2 @@
-# library-book-management-system-master
-Qt Creator
+# book_sale_management
+Powered by Qt Creator
